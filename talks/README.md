@@ -6,6 +6,12 @@
 * *pdf*: click on the link to download on your computer
 
 
+## 2014
+
+### 02. Linear Mixed Models in QTL analysis 
+
+Presenters: Andrey Ziyatdinov
+Date: 05 Mar 2014
 ## 2013
 
 ### 01. Salambo Bioinformatics Platform
