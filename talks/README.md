@@ -9,13 +9,13 @@
 
 ### 03. Interpretation of salamboR models
 
-[html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/html/index.html)
-[pdf](https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/03-interpret-salamboR-results.pdf?raw=true)
-[03-interpret-salamboR-results/](03-interpret-salamboR-results/)
-
 Title: Interpretation of salamboR models: heretabilities and correlations
 Presenters: Andrey Ziyatdinov & Agnès Morera Bayó
 Date: 23 May 2014
+
+[html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/html/index.html), 
+[pdf](https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/03-interpret-salamboR-results.pdf?raw=true), 
+[03-interpret-salamboR-results/](03-interpret-salamboR-results/)
 
 ### 02. Linear Mixed Models in QTL analysis 
 
