@@ -1,6 +1,7 @@
 # View presentation
 
-* [03-interpret-salamboR-results.pdf](https://github.com/ugcd/Central/blob/master/sessions/talks/03-interpret-salamboR-results/03-interpret-salamboR-results.pdf?raw=true)
+* HTML preivew [index.html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/html/index.html)
+* Likk to download the pdf file [03-interpret-salamboR-results.pdf](https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/03-interpret-salamboR-results.pdf?raw=true)
 
 # Resources
 
