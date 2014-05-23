@@ -9,9 +9,9 @@
 
 ### 03. Interpretation of salamboR models
 
-Title: Interpretation of salamboR models: heretabilities and correlations
-Presenters: Andrey Ziyatdinov & Agnès Morera Bayó
-Date: 23 May 2014
+Title: Interpretation of salamboR models: heretabilities and correlations  
+Presenters: Andrey Ziyatdinov & Agnès Morera Bayó  
+Date: 23 May 2014  
 
 [html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/html/index.html), 
 [pdf](https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/03-interpret-salamboR-results.pdf?raw=true), 
