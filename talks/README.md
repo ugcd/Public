@@ -7,24 +7,34 @@
 
 ## 2014
 
+### 03. Interpretation of salamboR models
+
+[html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/html/index.html)
+[pdf](https://github.com/ugcd/Public/blob/master/talks/03-interpret-salamboR-results/03-interpret-salamboR-results.pdf?raw=true)
+[03-interpret-salamboR-results/](03-interpret-salamboR-results/)
+
+Title: Interpretation of salamboR models: heretabilities and correlations
+Presenters: Andrey Ziyatdinov & Agnès Morera Bayó
+Date: 23 May 2014
+
 ### 02. Linear Mixed Models in QTL analysis 
 
-Title: Linear Mixed Models in QTL analysis. Variance components.
-Presenters: Andrey Ziyatdinov
-Date: 05 Mar 2014
+Title: Linear Mixed Models in QTL analysis. Variance components.  
+Presenters: Andrey Ziyatdinov  
+Date: 05 Mar 2014  
 
 [html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/02-mixed-models-QTL/html/index.html), 
 [pdf](https://github.com/ugcd/Public/blob/master/talks/02-mixed-models-QTL/Mixed-Models-QTL.pdf?raw=true),
-[02-mixed-models-QTL/](02-mixed-models-QTL)
+[02-mixed-models-QTL/](02-mixed-models-QTL/)
 
 ## 2013
 
 ### 01. Salambo Bioinformatics Platform
 
-Title: Salambo Bioinformatics Platform. Part #2: Case Study.
-Presenters: Andrey Ziyatdinov & Angel Martinez-Perez
-Date: 09.04.2013
+Title: Salambo Bioinformatics Platform. Part #2: Case Study.  
+Presenters: Andrey Ziyatdinov & Angel Martinez-Perez  
+Date: 9 April 2013  
 
 [html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/01-salamboR-part2/html/salamboR.html),
 [pdf](https://github.com/ugcd/Public/blob/master/talks/01-salamboR-part2/Salambo-Bioinformatics-Platform.pdf?raw=true),
-[01-salamboR-part2/](01-salamboR-part2)
+[01-salamboR-part2/](01-salamboR-part2/)
