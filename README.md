@@ -10,8 +10,8 @@ Our research is multidisciplinary, because it integrates several scientific area
 
 To achieve our scientific objectives, we design and develop our own projects primarily in basic research to implement new methodologies and tools in genomics, bioinformatics and genetic epidemiology related to complex diseases. In addition, we use these methodologies and tools to study specific diseases of interest to clinicians in the hope of transfering our research results directly to the clinic. We seek collaboration with the biopharmaceutical industry so that the results from our laboratory are quickly transfered to the market place and therefore become available to needy patients.
 
-Our unit strives for nothing less than excellence
+Our unit strives for nothing less than excellence.
 
-José Manuel Soria
-Head of Unit
+José Manuel Soria  
+Head of Unit  
 (c) [http://ugcd.net/](http://ugcd.net/)
