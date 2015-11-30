@@ -1,32 +1,15 @@
-# Talks
 
-## Presentation formats
+### 2014
 
-* *html*: click on the link to view on your browser; then use arrows & page up(down) keys to follow the presentation.
-* *pdf*: click on the link to download on your computer
+* Andrey Ziyatdinov & Agnès Morera Bayó, Interpretation of salamboR models @ 23 May, 2014. [html](http://variani.github.io/talks/2014/02-interpret-salamboR-results/), [pdf](http://variani.github.io/talks/2014/02-interpret-salamboR-results/interpret-salamboR-results.pdf), [src](https://github.com/variani/talks/tree/gh-pages/2014/02-interpret-salamboR-results) 
 
+* Date: 11th March 2014 <br/>
+  Tittle: **"Platelet glycoproteins & risk of thromboembolic disease: flow cytometry study for the GAIT2 Project"** <br/>    Presenters: Vázquez-Santiago, Miquel <br/>
+  Department: Unitat de Genòmica i Malalties Complexes (UGMC) (Hospital de Sant Pau, Barcelona) <br/>
+  [``pdf``](https://github.com/ugcd/Central/blob/master/sessions/14.03.11.MYPLATELETS%26CITOMETRY.pdf?raw=true)
 
-## 2014
+* Andrey Ziyatdinov, Linear Mixed Models in QTL analysis @ 5 March, 2014. [html](http://variani.github.io/talks/2014/01-mixed-models-qtl/), [pdf](http://variani.github.io/talks/2014/01-mixed-models-qtl/mixed-models-qtl.pdf), [src](https://github.com/variani/talks/tree/gh-pages/2014/01-mixed-models-qtl)
 
-### 02. Linear Mixed Models in QTL analysis 
+### 2013
 
-Title: Linear Mixed Models in QTL analysis. Variance components.
-Presenters: Andrey Ziyatdinov
-Date: 05 Mar 2014
-
-[html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/02-mixed-models-QTL/html/index.html), 
-[pdf](https://github.com/ugcd/Public/blob/master/talks/02-mixed-models-QTL/Mixed-Models-QTL.pdf?raw=true),
-[02-mixed-models-QTL/](02-mixed-models-QTL)
-
-
-## 2013
-
-### 01. Salambo Bioinformatics Platform
-
-Title: Salambo Bioinformatics Platform. Part #2: Case Study.  
-Presenters: Andrey Ziyatdinov & Angel Martinez-Perez  
-Date: 09.04.2013  
-
-[html](http://htmlpreview.github.io/?https://github.com/ugcd/Public/blob/master/talks/01-salamboR-part2/html/salamboR.html),
-[pdf](https://github.com/ugcd/Public/blob/master/talks/01-salamboR-part2/Salambo-Bioinformatics-Platform.pdf?raw=true),
-[01-salamboR-part2/](01-salamboR-part2)
+* Andrey Ziyatdinov & Angel Martinez-Perez, Salambo Bioinformatics Platform. Part #2: Case Study @ 9 April, 2013. [html](http://variani.github.io/talks/2013/01-salamboR-part2/), [pdf](http://variani.github.io/talks/2013/01-salamboR-part2/salamboR-part2.pdf), [src](https://github.com/variani/talks/tree/gh-pages/2013/01-salamboR-part2)
