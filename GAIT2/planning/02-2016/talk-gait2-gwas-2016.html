@@ -159,7 +159,18 @@
 </section><section id="fast-gwas-in-three-steps" class="slide level2">
 <h1>Fast GWAS in three steps</h1>
 <ol type="1">
-<li><span class="fragment highlight-red">Estimate the var-covar matrix <u>per trait</u> in the polygenic model</span></li>
+<li>Estimate the var-covar matrix <u>per trait</u> in the polygenic model</li>
+<li>Compute fast p-values for M = 10M</li>
+<li>Refine p-values for a subset of M = 100K-300K</li>
+</ol>
+</section><section id="a-critical-step" class="slide level2">
+<h1>A critical step</h1>
+<ol type="1">
+<li><span class="emphred">Estimate the var-covar matrix <u>per trait</u> in the polygenic model</span>
+<ul>
+<li><span class="emphred">The kinship matrix doesn’t work</span></li>
+<li><span class="emphred">Regressing out covariates doesn’t work</span></li>
+</ul></li>
 <li>Compute fast p-values for M = 10M</li>
 <li>Refine p-values for a subset of M = 100K-300K</li>
 </ol>
@@ -174,13 +185,14 @@
 </ul></li>
 <li>Refine p-values for a subset of M = 100K-300K <span class="emphblue">
 <ul>
-<li>SOLAR</li>
+<li>SOLAR via its R interface solarius</li>
 <li>lme4qtl (up to 4 times faster) </span></li>
 </ul></li>
 </ol>
 </section></section>
 <section><section id="results" class="titleslide slide level1"><h1>Results</h1></section><section id="results-history" class="slide level2">
 <h1>Results history</h1>
+<p><small>The imputed genotypes were available on January, 2015</small></p>
 <table>
 <thead>
 <tr class="header">
@@ -212,6 +224,44 @@
 </tbody>
 </table>
 <p><small><span class="math">\(^*\)</span> 2/3 steps in the fast GWAS (only fast p-values)</small></p>
+</section><section id="new-loci" class="slide level2">
+<h1>New loci</h1>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Trait</th>
+<th style="text-align: left;">Category</th>
+<th style="text-align: left;">Description</th>
+<th style="text-align: left;">Top SNP</th>
+<th style="text-align: left;">Gene</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">mPGES1</td>
+<td style="text-align: left;">Inflammation</td>
+<td style="text-align: left;">Microsomal prostaglandine E-synthase 1, beta-actin relative expression</td>
+<td style="text-align: left;"><span class="math">\(1.0 \times 10^{-11}\)</span></td>
+<td style="text-align: left;">PCMT1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SAMhplc</td>
+<td style="text-align: left;">Homocysteine</td>
+<td style="text-align: left;">S-adenosil metionine HPLC tandem</td>
+<td style="text-align: left;"><span class="math">\(2.5 \times 10^{10}\)</span></td>
+<td style="text-align: left;">MTHFR</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><span class="math">\(\dots\)</span></td>
+<td style="text-align: left;"><span class="math">\(\dots\)</span></td>
+<td style="text-align: left;"><span class="math">\(\dots\)</span></td>
+<td style="text-align: left;"><span class="math">\(\dots\)</span></td>
+</tr>
+</tbody>
+</table>
+</section><section id="gait2-gwas-is-undead" class="slide level2">
+<h1>GAIT2 GWAS is undead</h1>
+<p>Only if nobody studied your phenotype before.</p>
 </section><section id="timing" class="slide level2">
 <h1>Timing</h1>
 <table>
@@ -274,7 +324,12 @@
 <h1>Products</h1>
 <p>Demos</p>
 <ul>
-<li><a href="https://vvariani.shinyapps.io/app-gait2-shinyapps/">vvariani.shinyapps.io/app-gait2-shinyapps/</a></li>
+<li><a href="http://tinyurl.com/AppGait2Pub">tinyurl.com/AppGait2Pub</a> (public version)</li>
+</ul>
+<p>Talks</p>
+<ul>
+<li><a href="http://tinyurl.com/talkGAIT2GWAS2015">tinyurl.com/talkGAIT2GWAS2015</a> (January, 2016)</li>
+<li><a href="http://tinyurl.com/talkGAIT2GWAS2016">tinyurl.com/talkGAIT2GWAS2016</a> (this talk)</li>
 </ul>
 </section></section>
     </div>
